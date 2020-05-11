@@ -1,0 +1,13 @@
+.container{
+    padding: 20px;
+}
+
+.input{
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.list{
+    width: 400px;
+    border-radius: 10px;
+}
